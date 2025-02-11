@@ -36,7 +36,7 @@ img {
   position: relative;
 }
 section {
-  height: 100dvh;
+  height: 75dvh;
 }
 
 .flex-col {
@@ -225,6 +225,11 @@ main {
   height: 120px;
 }
 
+.section-3-img-wrap img:nth-child(3) {
+  width: 380px;
+  height: 100px;
+}
+
 .section-3-img-wrap img:nth-child(1) {
   transform: translateX(-150px);
 }
@@ -254,7 +259,7 @@ main {
 }
 
 .section-4-img-1 .img-1 {
-  width: 300px;
+  width: 320px;
   height: 100px;
 }
 .section-4-img-1 .img-2 {
