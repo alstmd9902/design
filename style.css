@@ -36,7 +36,7 @@ img {
   position: relative;
 }
 section {
-  height: 75dvh;
+  height: 80dvh;
 }
 
 .flex-col {
@@ -221,13 +221,13 @@ main {
 }
 
 .section-3-img-wrap img {
-  width: 400px;
-  height: 120px;
+  width: 315px;
+  height: 100px;
 }
 
 .section-3-img-wrap img:nth-child(3) {
-  width: 380px;
-  height: 100px;
+  width: 320px;
+  height: 85px;
 }
 
 .section-3-img-wrap img:nth-child(1) {
@@ -243,10 +243,9 @@ main {
 }
 
 /* section-4 영역 */
-.section-4 {
+/* .section-4 {
   padding-bottom: 480px;
-  padding-top: 40px;
-}
+} */
 .section-4-text-content {
   display: flex;
   gap: 80px;
@@ -259,7 +258,7 @@ main {
 }
 
 .section-4-img-1 .img-1 {
-  width: 320px;
+  width: 315px;
   height: 100px;
 }
 .section-4-img-1 .img-2 {
